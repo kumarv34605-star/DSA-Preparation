@@ -13,10 +13,10 @@ Hi, I'm Vishal Kumar 👋
 
 | Difficulty | Problems Solved |
 |------------|----------------|
-| 🟢 Easy    | 60 |
-| 🟡 Medium  | 34 |
+| 🟢 Easy    | 83 |
+| 🟡 Medium  | 61 |
 | 🔴 Hard    | 7 |
-| 📈 Total   | 101+ |
+| 📈 Total   | 151+ |
 
 🎯 Target: 300+ before placements  
 
